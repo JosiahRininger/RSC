@@ -1,5 +1,4 @@
-# RSC
-Relatively Simple Computer
+# Relatively Simple Computer
 
 * It consists of several digitally created registers and PLD circuits.
 
