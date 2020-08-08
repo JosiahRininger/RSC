@@ -1,14 +1,14 @@
-### RSC
+# RSC
 Relatively Simple Computer
 
 * It consists of several digitally created registers and PLD circuits.
 
-# How does it work?
+## How does it work?
 
 * The RSC works by connecting the created registers to one another and a control register that determines when certain values will need to be passed.
 * In order for the RSC to perform an operation, it needs bytecode to be inserted. To do this, we create an assembly program that performs the requested operation, convert it to bytecode using an RSC Emulator. Save the bytecode in a text file, and then load said text file into the RSC and tick the clock.
 
-# How do I set it up?
+## How do I set it up?
 
 1) In order to open this file, you will need to download [Logism](https://sourceforge.net/projects/circuit/).
 2) Once installed, download the zip file for this repository, and extract the files.
